@@ -1,0 +1,3 @@
+Django admin -
+user : yash
+passward : yashwa@2002
